@@ -93,3 +93,7 @@ C:\Users\ronel\source\repos\deupayMobile\api\apiProject2\apiProject2\obj\Debug\a
 C:\Users\ronel\source\repos\deupayMobile\api\apiProject2\apiProject2\obj\Debug\apiProject2.csproj.CopyComplete
 C:\Users\ronel\source\repos\deupayMobile\api\apiProject2\apiProject2\obj\Debug\apiProject2.dll
 C:\Users\ronel\source\repos\deupayMobile\api\apiProject2\apiProject2\obj\Debug\apiProject2.pdb
+C:\Users\ronel\source\repos\deupayMobile\api\apiProject2\apiProject2\bin\EntityFramework.dll
+C:\Users\ronel\source\repos\deupayMobile\api\apiProject2\apiProject2\bin\EntityFramework.SqlServer.dll
+C:\Users\ronel\source\repos\deupayMobile\api\apiProject2\apiProject2\bin\EntityFramework.xml
+C:\Users\ronel\source\repos\deupayMobile\api\apiProject2\apiProject2\bin\EntityFramework.SqlServer.xml

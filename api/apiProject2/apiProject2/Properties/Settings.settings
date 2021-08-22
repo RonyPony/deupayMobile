@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="apiProject2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="serverName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">d7a81f1c-5417-4723-a4c8-ad8b011ecbe8.sqlserver.sequelizer.com</Value>
+    </Setting>
+    <Setting Name="user" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">hwjdvwprrseppynr</Value>
+    </Setting>
+    <Setting Name="pass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">VFpFCXnrQvg6RCAJ3Uo74oiFxv6tSQuseQGUxAxANezCUP7mrGQZRHVFxRhgZ2Ga</Value>
+    </Setting>
+    <Setting Name="initialCatalog" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">dbd7a81f1c54174723a4c8ad8b011ecbe8</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
